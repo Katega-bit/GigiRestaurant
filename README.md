@@ -39,7 +39,7 @@ La aplicación **GigiRestaurant** está diseñada siguiendo los principios de **
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/GigiRestaurant.git
+   git clone https://github.com/Katega-bit/GigiRestaurant.git
    cd GigiRestaurant
    ```
 
